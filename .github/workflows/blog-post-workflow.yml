@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/komsenapati,https://kom-senapati.hashnode.dev/rss.xml"
+          feed_list: "https://dev.to/feed/k0msenapati,https://kom-senapati.hashnode.dev/rss.xml"
