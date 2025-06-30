@@ -19,14 +19,14 @@ I’m an undergrad student who’s curious about all things tech. I enjoy learni
   </summary>
   <br>
 
-  - 🏆 Winner of the **Octohub 2023 Hackathon** – [LinkedIn post](https://www.linkedin.com/posts/kom-senapati_octohub2023-opensourcemagic-activity-7144652915033423872-buF6)
+  - 🏆 Winner of the **Octohub 2023 Hackathon** – [LinkedIn post](https://www.linkedin.com/posts/k0msenapati_octohub2023-opensourcemagic-activity-7144652915033423872--qBB)
   - 🏆 2nd place in **HackTheFlag Hackathon** – [LinkedIn post](https://www.linkedin.com/posts/k0msenapati_hacktheflag-flagsmith-learningbydoing-activity-7317838628427083777-Rdgc)
   - 🏆 Winner of the **Code Dex Summer Hackathon 2024** – [Read blog](https://www.codedex.io/blog/summer-hackathon-2024-winners)
   - 🏆 Winner of the **DevFest Competition** – [LinkedIn post](https://www.linkedin.com/posts/llmware_day-3-of-celebrating-our-devfest-competition-activity-7262464248402866178-UfNy)
   - 🚀 Winner of the **Full Stack Bootcamp by Azure Developer Community** – [LinkedIn post](https://www.linkedin.com/posts/k0msenapati_azuredevelopercommunity-reskill-bootcampwinners-activity-7336283032011591680-xYhu)
   - 🚀 Top finisher in the **Scaler Node.js Project Challenge** – [Watch stream](https://youtu.be/q189YNqFn0g?t=114)
-  - 🚀 Winner of the **Arcjet Challenge** – [Twitter post](https://x.com/kom_senapati/status/1818158159888089301)
-  - ⭐ Top Contributor at the **VSOC Event** – [LinkedIn post](https://www.linkedin.com/posts/kom-senapati_achievementunlocked-vsoc-grateful-activity-7230537634563956736-y9BC)
+  - 🚀 Winner of the **Arcjet Challenge** – [Twitter post](https://x.com/k0msenapati/status/1818158159888089301)
+  - ⭐ Top Contributor at the **VSOC Event** – [LinkedIn post](https://www.linkedin.com/posts/k0msenapati_achievementunlocked-vsoc-grateful-activity-7230537634563956736-lAzJ)
 
 </details>
 
