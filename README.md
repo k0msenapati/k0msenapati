@@ -1,50 +1,39 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/bbaee8ef-6913-4ad1-844d-f26686bbdbaf" alt="github header" />
-</div>
--->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- About me ------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Introduction -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> About Me:
-🔭 I’m currently working on open-source.<br/>
-🫲 I’m looking to collaborate on Python-related work.<br/>
-🤝 I’m looking for help with data science.<br/>
-👨‍💻 I’m currently doing Btech in CSE.<br/>
-💬 Ask me about Python and SQL.
+
+# Hey there 👋, I'm K Om Senapati
+
+I’m an undergrad student who’s curious about all things tech. I enjoy learning how things work, building cool stuff, and exploring new ideas. When I’m not doing that, I love relaxing with a good movie or getting into a new series.
+
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Achievements -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+
 <details>
   <summary>
-    <h2>Achievements 🚀</h2>
+    <h4>achievements</h4>
   </summary>
   <br>
 
-  - 🥇 Winner of the **Octohub 2023 Hackathon** – [LinkedIn post](https://www.linkedin.com/posts/kom-senapati_octohub2023-opensourcemagic-activity-7144652915033423872-buF6?utm_source=share&utm_medium=member_desktop)
-  - 🎉 Triumphed in the **Scaler Node.js Project Challenge** – [Watch stream](https://youtu.be/q189YNqFn0g?t=114)
-  - 🏅 First place in the **Code Dex Summer Hackathon 2024** – [Read blog](https://www.codedex.io/blog/summer-hackathon-2024-winners)
-  - 🌟 Top Contributor at the **VSOC Event** – [Achievement post](https://www.linkedin.com/posts/kom-senapati_achievementunlocked-vsoc-grateful-activity-7230537634563956736-y9BC?utm_source=share&utm_medium=member_desktop)
-  - 🏆 Winner of the **Arcjet Challenge** – [Twitter post](https://x.com/kom_senapati/status/1818158159888089301)
+  - 🏆 Winner of the **Octohub 2023 Hackathon** – [LinkedIn post](https://www.linkedin.com/posts/kom-senapati_octohub2023-opensourcemagic-activity-7144652915033423872-buF6)
+  - 🏆 2nd place in **HackTheFlag Hackathon** – [LinkedIn post](https://www.linkedin.com/posts/k0msenapati_hacktheflag-flagsmith-learningbydoing-activity-7317838628427083777-Rdgc)
+  - 🏆 Winner of the **Code Dex Summer Hackathon 2024** – [Read blog](https://www.codedex.io/blog/summer-hackathon-2024-winners)
+  - 🏆 Winner of the **DevFest Competition** – [LinkedIn post](https://www.linkedin.com/posts/llmware_day-3-of-celebrating-our-devfest-competition-activity-7262464248402866178-UfNy)
+  - 🚀 Winner of the **Full Stack Bootcamp by Azure Developer Community** – [LinkedIn post](https://www.linkedin.com/posts/k0msenapati_azuredevelopercommunity-reskill-bootcampwinners-activity-7336283032011591680-xYhu)
+  - 🚀 Top finisher in the **Scaler Node.js Project Challenge** – [Watch stream](https://youtu.be/q189YNqFn0g?t=114)
+  - 🚀 Winner of the **Arcjet Challenge** – [Twitter post](https://x.com/kom_senapati/status/1818158159888089301)
+  - ⭐ Top Contributor at the **VSOC Event** – [LinkedIn post](https://www.linkedin.com/posts/kom-senapati_achievementunlocked-vsoc-grateful-activity-7230537634563956736-y9BC)
+
 </details>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Support Me Here ----------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-If you appreciate my work and want to support me, you can donate through PayPal or sponsor me through GitHub Sponsors.
-
-[![Support Me](https://img.shields.io/badge/Support%20Me-FFCC00?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/komsenapati?country.x=IN&locale.x=en_GB)
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> My Skillset:
 <div align="center">
@@ -87,6 +76,7 @@ If you appreciate my work and want to support me, you can donate through PayPal 
   </table>
 </div>
 
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Blogs --------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -105,19 +95,6 @@ Blog Posts:
 - [Deploy a bento to GitHub Pages](https://dev.to/k0msenapati/deploy-a-bento-to-github-pages-2b2d)
 <!-- BLOG-POST-LIST:END -->
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />  
-  GitHub Stats:
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kom-senapati&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kom-senapati&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
-</div>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Holopin Badges ----------------------------------------------------------------------------------------------------------------------------------- -->
@@ -133,27 +110,10 @@ Blog Posts:
   <img src="https://holopin.me/kom" width="500"/>
 </div>
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Octocat ------------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-<!--
-<details>
-    <summary>
-      <h2>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cat.webp" alt="Cat" width="25" height="25" />
-            Octocat:
-      </h2>
-    </summary>
-    <div align="center">
-      <img alt="octocat" src="https://github.com/user-attachments/assets/a57b04f8-ed06-47f1-8612-b659c153302e" width="300" />
-      <p>Get your Octocat at: <a href="https://myoctocat.com/">myoctocat.com</a></p>
-    </div>
-</details>
--->
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Thanks & Dev Quote -------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- -- Thanks  ------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+<br />
 Thanks for stopping by! 🙌 If you found something useful or enjoyed exploring my work, feel free to reach out or contribute to my projects.
