@@ -14,9 +14,7 @@ I’m an undergrad student who’s curious about all things tech. I enjoy learni
 
 
 <details>
-  <summary>
-    <h4>achievements</h4>
-  </summary>
+  <summary>achievements</summary>
   <br>
 
   - 🏆 Winner of the **Octohub 2023 Hackathon** – [LinkedIn post](https://www.linkedin.com/posts/k0msenapati_octohub2023-opensourcemagic-activity-7144652915033423872--qBB)
@@ -30,51 +28,56 @@ I’m an undergrad student who’s curious about all things tech. I enjoy learni
 
 </details>
 
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> My Skillset:
-<div align="center">
-  <table>
-    <tr>
-      <th>Languages</th>
-      <th>Database</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://skillicons.dev/icons?i=c" alt="C" />
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-      </td>
-    </tr>
-    <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://skillicons.dev/icons?i=react" alt="React" />
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
-      </td>
-    </tr>
-  </table>
-</div>
+<details>
+  <summary>skillset</summary>
+  <br>
+
+  <div align="center">
+    <table>
+      <tr>
+        <th>Languages</th>
+        <th>Database</th>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://skillicons.dev/icons?i=c" alt="C" />
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+          <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+          <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+          <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+        </td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+          <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+        </td>
+      </tr>
+      <tr>
+        <th>Frontend</th>
+        <th>Backend</th>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://skillicons.dev/icons?i=react" alt="React" />
+          <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+          <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+        </td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=expressjs" alt="Express.js" />
+          <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
+          <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
+        </td>
+      </tr>
+    </table>
+  </div>
+
+</details>
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -82,10 +85,9 @@ I’m an undergrad student who’s curious about all things tech. I enjoy learni
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" />  
-Blog Posts:
-</h2>
+## 📝Blog Posts:
+
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/k0msenapati)
 
 <!-- BLOG-POST-LIST:START -->
 - [Building a Smart Knowledge Platform with MindsDB](https://dev.to/k0msenapati/building-a-smart-knowledge-platform-with-mindsdb-5anb)
@@ -114,6 +116,7 @@ Blog Posts:
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Thanks  ------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 
 <br />
 Thanks for stopping by! 🙌 If you found something useful or enjoyed exploring my work, feel free to reach out or contribute to my projects.
