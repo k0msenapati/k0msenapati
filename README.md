@@ -90,11 +90,11 @@ I’m an undergrad student who’s curious about all things tech. I enjoy learni
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/k0msenapati)
 
 <!-- BLOG-POST-LIST:START -->
+- [Office Desk - CSS Art Edition](https://dev.to/k0msenapati/office-desk-css-art-edition-4k5p)
 - [Building a Smart Knowledge Platform with MindsDB](https://dev.to/k0msenapati/building-a-smart-knowledge-platform-with-mindsdb-5anb)
 - [Building Dissi with Agno and MCP](https://dev.to/k0msenapati/building-dissi-with-agno-and-mcp-4044)
 - [Building Talk-to-Page: Chat or Talk with Any Website](https://dev.to/k0msenapati/building-talk-to-page-chat-or-talk-with-any-website-g0h)
 - [Integrate Daytona in your NextJS app](https://dev.to/komsenapati/integrate-dayotana-in-your-nextjs-app-36ei)
-- [Deploy a bento to GitHub Pages](https://dev.to/k0msenapati/deploy-a-bento-to-github-pages-2b2d)
 <!-- BLOG-POST-LIST:END -->
 
 
