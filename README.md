@@ -90,11 +90,11 @@ I’m an undergrad student who’s curious about all things tech. I enjoy learni
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/k0msenapati)
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Janus: An AI-Powered Helpdesk That Makes Customer Support Smarter](https://dev.to/k0msenapati/building-janus-an-ai-powered-helpdesk-that-makes-customer-support-smarter-h6c)
 - [Real-Time Voice Meets RAG: Building a Domain-Specific AI Chatbot](https://dev.to/k0msenapati/real-time-voice-meets-rag-building-a-domain-specific-ai-chatbot-5heh)
 - [Building a Dashboard People Actually Want to Use](https://dev.to/k0msenapati/building-a-dashboard-people-actually-want-to-use-5al2)
 - [Office Desk - CSS Art Edition](https://dev.to/k0msenapati/office-desk-css-art-edition-4k5p)
 - [Building a Smart Knowledge Platform with MindsDB](https://dev.to/k0msenapati/building-a-smart-knowledge-platform-with-mindsdb-5anb)
-- [Building Dissi with Agno and MCP](https://dev.to/k0msenapati/building-dissi-with-agno-and-mcp-4044)
 <!-- BLOG-POST-LIST:END -->
 
 
